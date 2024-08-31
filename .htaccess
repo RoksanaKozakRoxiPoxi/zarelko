@@ -1,3 +1,0 @@
-#Przekierowanie 301 dla nowej domeny
-RewriteEngine On
-RewriteRule ^(.*)$ http://http://www.restclub.eu//$1 [R=301,L]
